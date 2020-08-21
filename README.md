@@ -7,13 +7,13 @@ If you want to contribute to this list, feel free to pull a request. Also you ca
 ## Datasets
 * [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words? (ACL20)](https://www.aclweb.org/anthology/2020.acl-main.419.pdf)
 
-## Post-Hoc Interpretation in Computer Vision
+## Local Interpretation in Computer Vision
 
 
-## Post-Hoc Interpretation in NLP
+## Local Interpretation in NLP
 
 
-## Post-Hoc Interpretation in Graph Analytics
+## Local Interpretation in Graph Analytics
 
 
 ## Representation Interpretation
